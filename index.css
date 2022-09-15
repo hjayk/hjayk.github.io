@@ -1,0 +1,25 @@
+body {
+    margin: 0%;
+}
+
+h2 {
+    color:black;
+    border: solid 10px;
+    text-align: center;
+    width: 100%;
+    margin-top: 0;
+    font-size: 45px;
+}
+
+img {
+    width: 100%;
+    border: solid 5px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#middle {
+    margin-left: 50%;
+}
